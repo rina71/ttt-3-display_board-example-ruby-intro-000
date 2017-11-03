@@ -7,5 +7,6 @@ puts "-----------"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
-display_board
+
 end
+display_board
