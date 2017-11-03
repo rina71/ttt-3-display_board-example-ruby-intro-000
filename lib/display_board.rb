@@ -4,4 +4,3 @@ end
 display_board
 Board = ["   ","   ","   "]
 3.board
-
