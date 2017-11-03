@@ -1,7 +1,7 @@
 def display_board
   puts "A Tic Tac Toe Board"
-
+end
 display_board
-Board = ["   ","   ","   ","   ","   ","   ","   ","   ","   "]
-board = [0]
+Board = ["   ","   ","   "]
+3.board
 
