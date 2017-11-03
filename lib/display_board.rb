@@ -3,4 +3,5 @@ def display_board
 end
 display_board
 Board = ["   ","   ","   "]
-3.board
+puts board [0]
+
