@@ -4,4 +4,3 @@ end
 display_board
 Board = ["   ","   ","   "]
 puts board [0]
-
