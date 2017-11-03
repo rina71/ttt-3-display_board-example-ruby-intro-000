@@ -7,5 +7,5 @@ puts "-----------"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
+prints display_board
 end
-display_board
